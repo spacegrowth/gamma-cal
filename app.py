@@ -7,6 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+from scipy.stats import norm  # Add this import for the norm function
 
 # Set page configuration
 st.set_page_config(

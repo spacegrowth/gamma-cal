@@ -1,0 +1,8 @@
+streamlit
+mibian
+yfinance
+numpy
+pandas
+matplotlib
+plotly
+scipy
